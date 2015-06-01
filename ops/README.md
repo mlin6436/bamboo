@@ -3,10 +3,10 @@
 ### AWS
 
 - [Cosmos](https://admin.live.bbc.co.uk/cosmos)
-- [Cosmos AWS](bbc-engineering.signin.aws.amazon.com/console)
+- [Cosmos AWS](https://bbc-engineering.signin.aws.amazon.com/console)
 - [Cosmos Wormhole](https://wormhole.api.bbci.co.uk/account/240129357028/console)
 - [Syndication AWS](https://platform-api-syndication-prod.signin.aws.amazon.com/console)
-- [Syndication Wormhole](wormhole.api.bbci.co.uk/account/111707543740/console)
+- [Syndication Wormhole](https://wormhole.api.bbci.co.uk/account/111707543740/console)
 
 ### Dev Setup
 

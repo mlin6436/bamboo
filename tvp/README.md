@@ -16,13 +16,3 @@
 ### Monitoring
 
 - [SMP](http://www.test.bbc.co.uk/smp/support)
-
-### Forge
-
-- [Artifactory](https://dev.bbc.co.uk/artifactory/webapp/home.html)
-- [Repo](https://repo.dev.bbc.co.uk/)
-- [RPMs](https://yum.dev.bbc.co.uk/live/noarch/)
-- [Service App RPM Logs](https://logs.forge.bbc.co.uk/tail/download/live/service-app-live-log/rpmlog)
-- [Service DB RPM Logs](https://logs.forge.bbc.co.uk/tail/download/live/service-db-live-log/rpmlog)
-- [Service PAL RPM Logs](https://logs.forge.bbc.co.uk/tail/download/live/service-pal-live-log/rpmlog)
-- [Service Static RPM Logs](https://logs.forge.bbc.co.uk/tail/download/live/service-static-live-log/rpmlog)

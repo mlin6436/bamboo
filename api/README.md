@@ -56,7 +56,7 @@
 - [Syndication Manager Status](https://api.live.bbc.co.uk/smservice/servicestatus)
 - [Syndication Manager ActiveMQ Zenoss](https://zenoss.forge.bbc.co.uk/zport/dmd/reports?platform=%27Forge%27&bbcApp=%27/BBCApplication/Live/bbc-activemq-syndmgr%27&report=%27smservice%27#reporttree:.zport.dmd.Reports.BBCDynamicReport.KPIReports)
 - [Syndication Manager Zenoss](https://zenoss.forge.bbc.co.uk/zport/dmd/reports?platform=%27Forge%27&bbcApp=%27/BBCApplication/Live/smservice%27&report=%27smservice%27#reporttree:.zport.dmd.Reports.BBCDynamicReport.KPIReports)
-
+- [Syndication Manager Database TEST](https://admin.test.bbc.co.uk/phpMyAdmin/)
 - [Syndication Manager ActiveMQ cwwtf](https://admin.live.cwwtf.bbc.co.uk/smservice/queue/queues.jsp)
 - [Syndication Manager ActiveMQ telhc](https://admin.live.telhc.bbc.co.uk/smservice/queue/queues.jsp)
 - [Syndication Manager AdminUI](https://production.live.bbc.co.uk/syndicationmanager)

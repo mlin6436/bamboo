@@ -5,6 +5,7 @@
 - [Cosmos](https://admin.live.bbc.co.uk/cosmos)
 - [Cosmos AWS](https://bbc-engineering.signin.aws.amazon.com/console)
 - [Cosmos Wormhole](https://wormhole.api.bbci.co.uk/account/240129357028/console)
+- [Cosmos Repository](https://repository.api.bbci.co.uk/)
 - [Syndication AWS](https://platform-api-syndication-prod.signin.aws.amazon.com/console)
 - [Syndication Wormhole](https://wormhole.api.bbci.co.uk/account/111707543740/console)
 

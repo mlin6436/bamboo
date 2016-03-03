@@ -2,6 +2,7 @@
 
 [Information Syndication Confluence](https://confluence.dev.bbc.co.uk/display/synteam/Home)
 
+- [developer portal](https://developer.bbc.co.uk/)
 - [apigee](https://enterprise.apigee.com/platform/#/bbc/)
 - [kibana](https://pyxis.cloud.bbc.co.uk/_plugin/kibana/index.html#/dashboard/file/default.json)
 

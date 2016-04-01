@@ -4,6 +4,7 @@
 
 - [Documentation](https://wormhole.api.bbci.co.uk/docs/)
 - Configuration => https://api.live.bbc.co.uk/cosmos/env/{{env}}/component/{{component}}/configuration
+- Secure Configuration => https://cosmos.api.bbci.co.uk/env/int/component/{compenent_name}/configuration/{key}
 
 ### AWS
 

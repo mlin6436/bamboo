@@ -13,6 +13,7 @@
 [Business Data Confluence](https://confluence.dev.bbc.co.uk/display/bds/Business+Data+System)
 
 - [Business Database LIVE](https://api.business-data.cloud.bbc.co.uk:1443/phpMyAdmin/)
+- [Swagger](https://api.business-data.cloud.bbc.co.uk/docs)
 
 ###BBC Search Adaptor
 

@@ -6,6 +6,10 @@
 - Configuration => https://api.live.bbc.co.uk/cosmos/env/{{env}}/component/{{component}}/configuration
 - Secure Configuration => https://cosmos.api.bbci.co.uk/env/{{env}}/component/{{compenent_name}}/configuration/{key}
 
+### Cosmos
+
+- [Doc](https://api.live.bbc.co.uk/cosmos/docs/)
+
 ### AWS
 
 - [Cosmos](https://admin.live.bbc.co.uk/cosmos)

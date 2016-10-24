@@ -8,6 +8,23 @@
 - [apple news api doc](https://developer.apple.com/library/ios/documentation/General/Conceptual/News_API_Ref/index.html#//apple_ref/doc/uid/TP40015409-CH2-SW1)
 - [products SLA](https://ui.sla.api.bbc.com/?tag=INSYN)
 
+###Information Syndication API
+
+- [Home](https://information-syndication.api.bbc.com/)
+- [Dashboard](https://service.eu.sumologic.com/ui/dashboard.html?f=49420570&t=r)
+
+###Partner Management API
+
+- [Home](https://partner-management.int.api.bbc.com/)
+
+###FTP Publisher
+
+- [Home](https://information-syndication-ftp-publisher.api.bbc.com/)
+
+###Apple News Publisher
+
+- [Home](https://information-syndication-apple-news.api.bbc.com/)
+
 ###Business Data
 
 [Business Data Confluence](https://confluence.dev.bbc.co.uk/display/bds/Business+Data+System)
